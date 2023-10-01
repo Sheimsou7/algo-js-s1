@@ -10,4 +10,3 @@ if (C < B && A+C!=3){
     console.log("ok")
 }
 else console.log("c'est Raté")
-
